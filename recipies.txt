@@ -6,4 +6,7 @@ Kheeer
 Pasta
 idli
 
+vada
+pizza
+
 thank you 
